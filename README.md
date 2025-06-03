@@ -1,3 +1,16 @@
+# Currency Converter
+
+A React-based currency converter application built with Vite.
+
+## Deployment
+
+This project is deployed on GitHub Pages. You can view it at:
+https://gautam696969.github.io/Currency-Convertor/
+
+### Deploy Steps
+1. Install gh-pages: `npm install gh-pages --save-dev`
+2. Run: `npm run deploy`
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
